@@ -33,9 +33,9 @@ function draw() {
 }
 
 function singleplayeropen(){
-window.open("https://playmath.github.com/singleplayer");
+window.open("https://playmath.github.io/singleplayer");
 }
 
 function multiplayeropen(){
-window.open("https://playmath.github.com/multiplayer");
+window.open("https://playmath.github.io/multiplayer");
 }
